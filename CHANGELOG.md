@@ -1,3 +1,15 @@
+# v0.0.2 (Wed Jan 03 2024)
+
+#### 🐛 Bug Fix
+
+- Configure Mend Bolt for GitHub [#1](https://github.com/cniweb/container-vwno9qu/pull/1) ([@mend-bolt-for-github[bot]](https://github.com/mend-bolt-for-github[bot]))
+
+#### Authors: 1
+
+- [@mend-bolt-for-github[bot]](https://github.com/mend-bolt-for-github[bot])
+
+---
+
 # v0.0.1 (Wed Jan 03 2024)
 
 :tada: This release contains work from a new contributor! :tada:
